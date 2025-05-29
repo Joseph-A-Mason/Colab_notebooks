@@ -1,2 +1,2 @@
 # Colab_notebooks
-Colab_notebooks for working with GEE
+Colab_notebooks for working with GEE. Please note that, as it says in each notebook, the approach used here for making animations with time stamps from Google Earth Engine image collections is largely adapted from a script by Justin Braaten, though using a different kind of imagery and with a hillshade background added. I've also included a finished version of the North America EVI animation.
